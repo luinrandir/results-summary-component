@@ -92,6 +92,7 @@ body {
 .results {
   background-color: var(--nclr-white);
   border-radius: var(--box-radius-size);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   display: grid;
   max-width: 736px;
 }
